@@ -1,1 +1,3 @@
 echo "file kedua untuk mencoba"
+echo "jangan menyentuh file ini"
+echo "karna file ini berbahaya"
