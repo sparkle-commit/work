@@ -1,2 +1,3 @@
 echo "Ini adalah file contoh saja"
 echo "Hanya contoh saja"
+echo "Senior ayub pasti ikut join proyek web dan mobile"
