@@ -2,7 +2,7 @@
 export TERM=xterm
 
 while true; do
-    clear
+    printf "\033c"
     echo "==========================="
     echo "  🔥 MENU SHELL SCRIPT 🔥  "
     echo "==========================="
