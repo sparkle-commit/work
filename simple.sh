@@ -1,4 +1,5 @@
 #!/bin/bash
+export TERM=xterm
 
 while true; do
     clear
